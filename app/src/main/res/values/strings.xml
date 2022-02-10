@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="change_time">Change time</string>
+    <string name="on_alarm">Start Alarm</string>
+</resources>
